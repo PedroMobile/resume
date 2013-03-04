@@ -1,10 +1,10 @@
 # Seyhun Akyürek
 
-# Work Experience
+## Work Experience
 ### Lead & Senior Developer
 #### [usefulideas] (http://usefulideas.net), İstanbul, TR
 
-* Develop and maintain Ruby On Rails, Javascript applications
+* Developing and maintaining Ruby On Rails, javascript applications
 * Maintained Heroku servers for internal projects
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with rspec, rails, ruby, less, jQuery, Mustache.js on OS X
@@ -25,10 +25,10 @@
 * Javascript
 
 I am experienced with the following environments and software: 
-Ruby, Ruby On Rails, PHP, Django, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
+Ruby, Ruby On Rails, Python, Django, PHP, Laravel, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
 
 # Projects
-## [HesaplaBakalım!] (http://hesaplabakalim.com)
+## [HesaplaBakalım] (http://hesaplabakalim.com)
 Developed hesaplabakalim.com project, managed the team, implemented lastest web technologies and methodologies.
 
 ### Features
@@ -38,14 +38,14 @@ Developed hesaplabakalim.com project, managed the team, implemented lastest web 
 * Marketing actions (Google Analytics and Google Adwords)
 * User authentication via Facebook
 
-## e-PR.NET
+## [e-PR.NET] (http://e-pr.net)
 Rails application for pressrooms and distributing its pressdocs
 
 ### Features
 * Complex Rails application for creating and managing pressrooms and pressdocs
 * Tracks user activity and reporting (usage based, keyword based and social based)
 
-## SosyalPosta.com
+## [SosyalPosta.com] (http://sosyalposta.com)
 * PHP application with MySQL database hosted on Amazon EC2
 
 ### Features
