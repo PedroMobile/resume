@@ -1,13 +1,17 @@
 # Seyhun Akyürek
 
 ## Work Experience
-### Lead & Senior Developer
+### Lead & Senior Developer (2012 - 2013)
 #### [usefulideas] (http://usefulideas.net), İstanbul, TR
 
 * Developing and maintaining Ruby On Rails, javascript applications
 * Maintained Heroku servers for internal projects
 * Shipped code on projects with an agile, test-driven development
-* Extensive experience with rspec, rails, ruby, less, jQuery, Mustache.js on OS X
+* Extensive experience with rspec, rails, ruby, less, sass, scss, jQuery, Mustache.js, Handlebars and underscore.js
+* Twitter, Facebook, FourSquare API's
+* JSON, JSONP, XML
+* Using Git for version control, revisions
+* Heroku, Amazon EC2, Amazon RDS, Amazon S3, Apache VPC experience
 * Contributed to open source projects including [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) 
 * Reviewed pull requests, merged pull requests, and verified reported issues on open source projects
 
@@ -16,13 +20,15 @@
 * Ruby on Rails
 * Ruby on Rails Consulting
 * Ruby on Rails App development
-* Ruby on Rails Mobile development (RESTful)
+* Ruby on Rails Mobile development (RESTful architecture)
 * NoSQL Database Development (Redis & MongoDB)
+* Ruby EventMachine, RabbitMQ task processing.
 * Agile Development
 * Test Driven Development
 * Behavior Driven Development
 * Pragmatic Programming
 * Javascript
+* Atlassian Products (Jira, Bonfire, GreenHopper)
 
 I am experienced with the following environments and software: 
 Ruby, Ruby On Rails, Python, Django, PHP, Laravel, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
@@ -51,3 +57,13 @@ Rails application for pressrooms and distributing its pressdocs
 ### Features
 * Complex PHP application for generating social postcards and sending as physical card
 * Contributed to application code
+
+## Background Experience
+### Python & Django Developer ( Before 2012)
+
+* Developed and maintained Python, Django, javascript applications
+* Deployed on Google App Engine platform
+* Built, realtime push notification application called minirealtime
+
+### PHP Developer
+* Developed and maintained PHP, Zend Framework, javascript applications.
